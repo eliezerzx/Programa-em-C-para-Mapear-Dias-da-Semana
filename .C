@@ -46,7 +46,7 @@ int main()
 		printf ("\|n=======================================|");
 	} else {
         printf ("\n|=======================================|");
-        printf ("\n|Valor invalido                         |"); // caso o valor digitado pelo usuario for invalido ira mostrar valor invalido (usando else)
+        printf ("\n|Valor invalido                         |"); // caso o valor digitado pelo usuario for invalido, irá mostrar "valor invalido"
         printf ("\n|=======================================|");
     }
 	
