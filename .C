@@ -2,12 +2,13 @@
 
 int main()
 {	
+	//variavel
 	int dia;
 
-	printf ("Digite o dia da semana de 1 a 7:");
-	scanf ("%d", &dia);
+	printf ("Digite o dia da semana de 1 a 7:");//solicita o dia da semana
+	scanf ("%d", &dia);// lê o dia da semana digitada pelo usuario
 
-
+	//identifica o "dia" digitado pelo usuario para poder mostrar qual o resultado
 	if ( dia == 1 )
 	{
 		printf ("\n|=======================================|");
@@ -45,7 +46,7 @@ int main()
 		printf ("\|n=======================================|");
 	} else {
         printf ("\n|=======================================|");
-        printf ("\n|Valor invalido                         |");
+        printf ("\n|Valor invalido                         |"); // caso o valor digitado pelo usuario for invalido ira mostrar valor invalido (usando else)
         printf ("\n|=======================================|");
     }
 	
