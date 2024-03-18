@@ -16,4 +16,4 @@
 
 8. O programa termina após a impressão da mensagem correspondente ao dia da semana ou à mensagem de valor inválido.
 
-- Em resumo, esse código é um pequeno programa em C que mapeia números de 1 a 7 para os dias da semana correspondentes e exibe mensagens relacionadas a esses dias. É uma maneira simples de praticar estruturas condicionais em C.
+- Em resumo, esse código é um pequeno programa em C que mapeia números de 1 a 7 para os dias da semana correspondentes e exibe mensagens relacionadas a esses dias.
