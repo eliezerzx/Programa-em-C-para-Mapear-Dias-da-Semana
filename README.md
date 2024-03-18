@@ -1,4 +1,4 @@
-# Programa-em-C-para-Mapear-Dias-da-Semana
+# Programa em C para Mapear Dias da Semana
 
 1. O programa começa definindo uma variável chamada `dia`.
 2. Ele solicita ao usuário que digite um número inteiro representando o dia da semana.
